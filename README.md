@@ -30,7 +30,6 @@ WB-STD-003 ссылается на WB-STD-001 и WB-STD-002 как на норм
 ## Внешние источники
 
 - **[Wiren Board MQTT Conventions](https://github.com/wirenboard/conventions)** — публичные соглашения Wiren Board по MQTT. Раздел 1.2 «Naming Conventions (2024+)» — основа WB-STD-001; раздел 3 «Control Types» — основа типов контролов в WB-STD-003.
-- **«Текст в веб-интерфейсе»** — действующая корпоративная инструкция Wiren Board; первоисточник правил для WB-STD-001 (часть) и WB-STD-002.
 - **`wb-mqtt-serial-device-template.schema.json`** (в репозитории `wb-mqtt-serial`) — первоисточник структуры шаблона для WB-STD-003.
 
 ## Что подавать AI-агенту
